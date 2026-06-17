@@ -140,7 +140,7 @@ Software and supersedes all prior agreements on the subject.
 
 ## 15. Contact
 
-Questions about this Agreement: **legal@midas-agent.com**
+Questions about this Agreement: **dcev6853@gmail.com**
 
 ---
 
