@@ -28,4 +28,4 @@ We accept PRs for:
 Please read our [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## Questions?
-Open a [Discussion](https://github.com/midas-agent/midas-agent/discussions) or email dcev6853@gmail.com .
+Open a [Discussion]((https://discord.gg/3HpYTxGb)) or email dcev6853@gmail.com .
